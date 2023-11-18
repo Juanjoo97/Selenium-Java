@@ -1,0 +1,2028 @@
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $6.557.593 - Seguro de vida deudores: $1.249.901 - VTU: $19.407.494
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Cuota mensual con Seguro Protección de Pagos: $338.000 - Tasa de interés fija: 1.5% MV (19.56% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Cuota mensual con Seguro Protección de Pagos: $338.000 - Tasa de interés fija: 1.5% MV (19.56% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Prestación de servicios - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Beneficiario - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click Si, adquirir
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - Si, adquirir
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Cuota mensual con Seguro Protección de Pagos: $338.000 - Tasa de interés fija: 1.5% MV (19.56% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.610.084 - Seguro de vida deudores: $1.762.276 - VTU: $28.972.360
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.610.084 - Seguro de vida deudores: $1.762.276 - VTU: $28.972.360
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Atrás
+eventLabel: Aliado: No aplica - Beneficios y Características - Atrás
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Aquí Listado de concesionarios y marcas autorizadas
+eventLabel: Aliado: No aplica - Beneficios y características - Atrás
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Video
+eventLabel: Aliado: No aplica - Beneficios y Características - Conozca más de este crédito - Enlace Video
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Atrás
+eventLabel: Aliado: No aplica - Conozca las características del Crédito de Vehículo - Atrás
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado: No aplica - Beneficios y Características - Continuar
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Tipo de documento
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía - Continuar
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Tipo de documento
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Checkbox Aceptado - Tratamiento de datos personales
+eventLabel: Información personal - Checkbox Aceptado - Tratamiento de datos personales
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía - Continuar
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Simular
+eventLabel: Aliado: No aplica - Simulación del Crédito - Dinero a solicitar: $ 11.600.000 - Plazo: 82 - Simular
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Dinero a solicitar: $ 11.600.000 - Plazo: 82 - Resultado: Cuota mensual aprox: $362.000,00 - Tasa variable: 2,51% mes vencido - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.610.084 - Seguro de vida deudores: $1.762.276 - VTU: $28.972.360
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $379.000 - Tasa de interés variable: 2.49% MV (34.33% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $379.000 - Tasa de interés variable: 2.49% MV (34.33% EA)
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Prestación de servicios - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Beneficiario - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click Si, adquirir
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - Si, adquirir
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $379.000 - Tasa de interés variable: 2.49% MV (34.33% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $6.557.593 - Seguro de vida deudores: $1.249.901 - VTU: $19.407.494
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Cuota mensual con Seguro Protección de Pagos: $338.000 - Tasa de interés fija: 1.5% MV (19.56% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Prestación de servicios - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Beneficiario - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click Si, adquirir
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - Si, adquirir
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Cuota mensual con Seguro Protección de Pagos: $338.000 - Tasa de interés fija: 1.5% MV (19.56% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $6.557.593 - Seguro de vida deudores: $1.249.901 - VTU: $19.407.494
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Cuota mensual con Seguro Protección de Pagos: $338.000 - Tasa de interés fija: 1.5% MV (19.56% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Cuota mensual con Seguro Protección de Pagos: $338.000 - Tasa de interés fija: 1.5% MV (19.56% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Prestación de servicios - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Beneficiario - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click Si, adquirir
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - Si, adquirir
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Cuota mensual con Seguro Protección de Pagos: $338.000 - Tasa de interés fija: 1.5% MV (19.56% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.610.084 - Seguro de vida deudores: $1.762.276 - VTU: $28.972.360
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.610.084 - Seguro de vida deudores: $1.762.276 - VTU: $28.972.360
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $379.000 - Tasa de interés variable: 2.49% MV (34.33% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $379.000 - Tasa de interés variable: 2.49% MV (34.33% EA)
+event: pageview
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Prestación de servicios - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Beneficiario - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click Si, adquirir
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - Si, adquirir
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $379.000 - Tasa de interés variable: 2.49% MV (34.33% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: WEB - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $6.557.593 - Seguro de vida deudores: $1.249.901 - VTU: $19.407.494
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.410.192 - Seguro de vida deudores: $1.761.694 - VTU: $28.771.887
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $376.000 - Tasa de interés variable: 2.46% MV (33.86% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $376.000 - Tasa de interés variable: 2.46% MV (33.86% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Prestación de servicios - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Beneficiario - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click Si, adquirir
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - Si, adquirir
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $376.000 - Tasa de interés variable: 2.46% MV (33.86% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.410.192 - Seguro de vida deudores: $1.761.694 - VTU: $28.771.887
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $376.000 - Tasa de interés variable: 2.46% MV (33.86% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $376.000 - Tasa de interés variable: 2.46% MV (33.86% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Prestación de servicios - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Beneficiario - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click Si, adquirir
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - Si, adquirir
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Con seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Cuota mensual con Seguro Protección de Pagos: $376.000 - Tasa de interés variable: 2.46% MV (33.86% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.410.192 - Seguro de vida deudores: $1.761.694 - VTU: $28.771.887
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.410.192 - Seguro de vida deudores: $1.761.694 - VTU: $28.771.887
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.410.192 - Seguro de vida deudores: $1.761.694 - VTU: $28.771.887
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.410.192 - Seguro de vida deudores: $1.761.694 - VTU: $28.771.887
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.410.192 - Seguro de vida deudores: $1.761.694 - VTU: $28.771.887
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Atrás
+eventLabel: Aliado: No aplica - Beneficios y Características - Atrás
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Aquí Listado de concesionarios y marcas autorizadas
+eventLabel: Aliado: No aplica - Beneficios y características - Atrás
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Video
+eventLabel: Aliado: No aplica - Beneficios y Características - Conozca más de este crédito - Enlace Video
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Atrás
+eventLabel: Aliado: No aplica - Conozca las características del Crédito de Vehículo - Atrás
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado: No aplica - Beneficios y Características - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Tipo de documento
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Tipo de documento
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Checkbox Aceptado - Tratamiento de datos personales
+eventLabel: Información personal - Checkbox Aceptado - Tratamiento de datos personales
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Simular
+eventLabel: Aliado: No aplica - Simulación del Crédito - Dinero a solicitar: $ 11.600.000 - Plazo: 82 - Simular
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Dinero a solicitar: $ 11.600.000 - Plazo: 82 - Resultado: Cuota mensual aprox: $359.000,00 - Tasa variable: 2,48% mes vencido - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $15.410.192 - Seguro de vida deudores: $1.761.694 - VTU: $28.771.887
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Valor cuota mensual: $359.000 - Tasa de interés variable: 2.48% MV (34.17% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa variable
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa variable
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Valor cuota mensual: $359.000 - Tasa de interés variable: 2.48% MV (34.17% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Término indefinido - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Cotizante - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click No, descartar
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - No, descartar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 82 meses - Valor cuota mensual: $359.000 - Tasa de interés variable: 2.48% MV (34.17% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $5.395.250 - Seguro de vida deudores: $932.497 - VTU: $17.927.747
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Término indefinido - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Cotizante - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click No, descartar
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - No, descartar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $5.395.250 - Seguro de vida deudores: $932.497 - VTU: $17.927.747
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Independiente - Actividd económica de la empresa: 07111 - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Cotizante - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Independiente - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click No, descartar
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - No, descartar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $5.395.250 - Seguro de vida deudores: $932.497 - VTU: $17.927.747
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA)
+event: pageview
+
+
+eventCategory: undefined - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Independiente - Actividd económica de la empresa: 07111 - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Cotizante - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Independiente - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click No, descartar
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - No, descartar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 45 meses - Valor cuota mensual: $405.000 - Tasa de interés fija: 1.8% MV (23.87% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Valor cuota mensual: $344.000 - Tasa de interés fija: 1.8% MV (23.87% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Término indefinido - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Cotizante - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click No, descartar
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - No, descartar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Valor cuota mensual: $344.000 - Tasa de interés fija: 1.8% MV (23.87% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Formulario información personal
+eventLabel: Aliado: No aplica - Formulario de información personal
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Seguro Protección de Pagos
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Estudio de crédito tasa fija
+eventLabel: Aliado: No aplica - Estudio de Crédito - Tasa fija
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Verifique las condiciones de su solicitud
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Valor cuota mensual: $344.000 - Tasa de interés fija: 1.8% MV (23.87% EA)
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado : No aplica - Formulario de información personal - Fecha de nacimiento: 1997-09-25 - Actividad laboral: Empleado - Nombre de la empresa: IBM - Tipo de contrato: Término indefinido - Valor total de los Ingresos mensuales: 4000000 - Cotización salud: Cotizante - Código asesor: No aplica - Compra del vehículo a: Concesionario autorizados - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Ver términos y condiciones
+eventLabel: Aliado: No aplica - Seguro voluntario Protección de Pagos - Empleado - Enlace Ver términos y condiciones
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click No, descartar
+eventLabel: Aliado: No aplica - Resumen condiciones seguro protección de pagos - No, descartar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Estudio de Crédito - Verifique las condiciones de su solicitud - Sin seguro voluntario Protección de Pagos - Valor del Crédito: $11.600.000 - Plazo del Crédito: 60 meses - Valor cuota mensual: $344.000 - Tasa de interés fija: 1.8% MV (23.87% EA) - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Modal - Pageview - Estamos evaluando su solicitud
+eventLabel: Modal - - Estamos evaluando su solicitud - Recuerde que este tipo de solicitudes en los canales virtuales no cobran comisión de trámite y no requiere intermediarios. - Origen Flujo: Estudio del crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Atrás
+eventLabel: Aliado: No aplica - Beneficios y Características - Atrás
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Aquí Listado de concesionarios y marcas autorizadas
+eventLabel: Aliado: No aplica - Beneficios y características - Atrás
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Enlace Video
+eventLabel: Aliado: No aplica - Beneficios y Características - Conozca más de este crédito - Enlace Video
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Atrás
+eventLabel: Aliado: No aplica - Conozca las características del Crédito de Vehículo - Atrás
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Aliado: No aplica - Beneficios y Características - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Tipo de documento
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Tipo de documento
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Checkbox Aceptado - Tratamiento de datos personales
+eventLabel: Información personal - Checkbox Aceptado - Tratamiento de datos personales
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Continuar
+eventLabel: Información personal - Tipo de documento: Cédula de ciudadanía - Continuar
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Simular
+eventLabel: Aliado: No aplica - Simulación del Crédito - Dinero a solicitar: $ 11.600.000 - Plazo: 60 - Simular
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Click en Solicitar Crédito
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Dinero a solicitar: $ 11.600.000 - Plazo: 60 - Resultado: Cuota mensual aprox: $344.000,00 - Tasa variable: 1,80% mes vencido - Solicitar Crédito
+event: eventClick
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Beneficios y características
+eventLabel: Aliado: No aplica - Beneficios y características
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Información personal validación documento
+eventLabel: Aliado: No aplica - Información personal validación documento
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Simulación
+eventLabel: Aliado: No aplica - Simulación del Crédito
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Resultado de la Simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación
+event: pageview
+
+
+eventCategory: APP - Zona Pública - Crédito Vehículo con Prenda
+eventAction: Pageview - Detalle resultado de la simulación
+eventLabel: Aliado: No aplica - Resultado de la Simulación - Capital: $11.600.000 - Intereses: $7.428.498 - Seguro de vida deudores: $1.255.947 - VTU: $20.284.445
+event: pageview
+
+
